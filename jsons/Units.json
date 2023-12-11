@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
+		"name": "Giant Banana Bot",
+		"unitType": "Armored",
+		"uniqueTo": "Bonkersland",
+		"replaces": "Giant Death Robot",
+		"movement": 5,
+		"strength": 175,
+		"cost": 400,
+		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "gdrAttack"
 	}
 ]
