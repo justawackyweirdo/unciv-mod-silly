@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Bonkersland",
+		"leaderName": "Madman Banana Boy",
+		"adjective": ["Crazian"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Crazy things are heppening, such as the beginning of Bonkersland. The place of crazy things.",
+		"startIntroPart2": "You, as Madman Banana Boy, know what to do. It's banana time.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You are now going to explode.",
+		"attacked": "Try me! The other nations will shudder when they find your discombobulated, dismembered, decomposing capital when I'm done with ya!",
+		"defeated": "Change the world...my final message...goodbye!",
+		"introduction": "Who are you? Who are you!? WHO ARE YOU!?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hey, look, you're back!",
+		"neutralLetsHearIt": ["Okay, cool.","Are you negotiating?","What's up, bro?"],
+		"neutralNo": ["Huh?","This is clownery.","A bit too silly."],
+		"neutralYes": ["Ridiculous. I love it.","Hell yeah!","Just the right amount of silly."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "...",
+		"hateLetsHearIt": ["Speak, clown.","Are you negotiating?","Huh?"],
+		"hateNo": ["Eugh, that's disgusting!","Why so serious?","Bro, what? No!"],
+		"hateYes": ["Ugh, fiiiine.","Guess that'll do.","The Banana Boy accepts begrudgingly."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Wait, we were fighting? Totally forgot, honestly.",
+		"tradeRequest": "I think you'll like this!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [66,49,0],
+		"innerColor": [255,187,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Bonkersland","Crazia","Sillyspot","Chaoshelm","Goofyvilla","Erratichole","Insanicopia","Copium","Conquerinator",
+			"Whereami","Wario","Slytherin","Chucklenuts","Not Home","Surely Home","That Wasn't Home","Confused? So am I.","Name #18","What is this!?",
+			"Totally The Capital","The Mothership","Helth","BAG","Quack","Caliton","Socal","New Morocco","What","Zigzagoon",
+			"Bidoof","Who","90%","Stocks","Correct","WRONG"]
 	}
 ]
