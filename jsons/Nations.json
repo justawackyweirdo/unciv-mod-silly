@@ -43,7 +43,8 @@
 		"declaringWar": "You area fiend and a crook! We must strike you down!"
 		"attacked": "You swine! We will show you why you do not mess with us!"
 		"defeated": "And the ever-bleeding German-Russian city state finally dies..."
-		"outerColor": [0,0,0,]
+		"outerColor": [0,0,0]
 		"innerColor": [0,255,255]
 		"cities": ["Hellscape"]
+	{
 ]
